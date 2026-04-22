@@ -1,0 +1,30 @@
+{
+  "name": "EchoStream",
+  "appid": "__UNI__ECHOSTREAM",
+  "description": "个人思维复利引擎",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "uniCloud": {
+    "spaceId": "mp-acc881ee-4626-4459-b48b-37a4285edd27",
+    "provider": "aliyun"
+  },
+  "h5": {
+    "title": "EchoStream - 灵感回声",
+    "router": {
+      "mode": "hash",
+      "base": "./"
+    },
+    "devServer": {
+      "port": 5173,
+      "https": false
+    }
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false
+    },
+    "usingComponents": true
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "echostream-cloud",
+  "version": "1.0.0",
+  "description": "EchoStream UniCloud 云函数",
+  "dependencies": {
+    "@dcloudio/uni-cloud-sdk": "latest"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "EchoStream",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/capture/capture",
+      "style": {
+        "navigationBarTitleText": "捕捉灵感",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/garden/garden",
+      "style": {
+        "navigationBarTitleText": "思维星云",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/insight/insight",
+      "style": {
+        "navigationBarTitleText": "灵感详情",
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "EchoStream",
+    "navigationBarBackgroundColor": "#0a0a0f",
+    "backgroundColor": "#0a0a0f",
+    "backgroundTextStyle": "dark"
+  }
+}
